@@ -20,4 +20,4 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-github-snake-dark.svg
+![snake gif](https://github.com/rohanxlabs/rohanxlabs/blob/output/github-snake-dark.svg)
