@@ -1,52 +1,72 @@
 
-<!-- 🔥 Animated Intro --><p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Rohan;AI%2FML+Developer;Building+Real-World+Projects;Future+Innovator+🚀" />
+<!-- 🔥 HERO SECTION --><p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3500&color=00F7FF&center=true&vCenter=true&width=700&lines=Rohan+%7C+rohanxlabs;AI%2FML+Engineer+in+Progress;Building+Real-World+Intelligent+Systems;Turning+Ideas+into+Code+🚀" />
+</p><h1 align="center">⚡ rohanxlabs</h1>
+<p align="center">
+  <b>AI/ML • Computer Vision • Generative AI</b><br>
+  <i>Focused on building systems, not just learning theory</i>
 </p>---
 
-<h1 align="center">🚀 Rohan | rohanxlabs</h1>
-<h3 align="center">AI/ML Developer • Computer Vision • GenAI Explorer</h3>---
+<!-- 🧠 IDENTITY -->🧠 Who Am I?
 
-<!-- 🧠 About Me -->🧠 About Me
+I’m a developer focused on building real-world AI systems rather than just experimenting.
+My work revolves around combining Machine Learning + Software Engineering to create usable products.
 
-- 🔭 Working on AI/ML + OpenCV Projects
-- 👯 Open to collaborate on Deep Learning & GenAI
-- 🤝 Need help with Scaling & Deployment (FastAPI, Cloud)
-- 🌱 Learning Deep Learning, FastAPI, Generative AI
-- 💬 Ask me about Python, OpenCV, ML Basics
-- ⚡ Fun fact: I build more than I consume
+- I don’t just learn → I implement
+- I don’t just follow tutorials → I build systems
+- I don’t chase trends → I understand fundamentals
 
 ---
 
-<!-- 🛠 Tech Stack -->🛠 Tech Stack
+<!-- 🚀 CURRENT DIRECTION -->🚀 Current Focus
+
++ AI/ML Projects with real-world use cases
++ Computer Vision (OpenCV + Deep Learning)
++ Backend for ML (FastAPI)
++ Generative AI exploration
+
+---
+
+<!-- 🛠 STACK -->🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,git,github,linux,tensorflow,pytorch,opencv,fastapi" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,linux,git,github,tensorflow,pytorch,opencv,fastapi" />
 </p>---
 
-<!-- 📊 Stats -->📊 GitHub Stats
+<!-- 📊 STATS -->📊 Performance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohanxlabs&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohanxlabs&theme=tokyonight&hide_border=true" height="170"/>
-</p><p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanxlabs&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rohanxlabs&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohanxlabs&theme=tokyonight&hide_border=true" height="165"/>
 </p>---
 
-<!-- 🐍 Snake Animation -->🐍 Contribution Graph
+<!-- 🧩 PROJECT PHILOSOPHY -->🧩 How I Build
+
+Instead of random projects, I focus on:
+
+- 📌 Problem → Solution → Implementation
+- 📌 Clean architecture over quick hacks
+- 📌 Real usability over demo projects
+
+---
+
+<!-- 🚀 PROJECT ZONE -->🚀 Project Zone
+
+«Projects are being structured into:»
+
+- 🤖 AI Systems
+- 👁️ Vision-Based Applications
+- 🌐 AI + Web Integration
+
+---
+
+<!-- 🐍 SNAKE -->🐍 Contribution Graph
 
 <p align="center">
   <img src="https://github.com/rohanxlabs/rohanxlabs/blob/output/github-contribution-grid-snake.svg" />
 </p>---
 
-<!-- 🚀 Projects -->🚀 Featured Projects
-
-- 🤖 AI Projects (Coming Soon...)
-- 👁️ Computer Vision Systems
-- 🌐 AI + Web Integrations
-
----
-
-<!-- 🌐 Connect -->🌐 Connect With Me
+<!-- 🌐 CONNECT -->🌐 Connect
 
 <p align="center">
   <a href="https://github.com/rohanxlabs">
@@ -60,16 +80,14 @@
   </a>
 </p>---
 
-<!-- ⚡ Quote -->⚡ Mindset
+<!-- ⚡ CLOSING -->⚡ Philosophy
 
-«"I don’t just learn tech — I build with it."»
+«"Execution beats knowledge. Systems beat ideas."»
 
 ---
 
-<!-- 🔥 Visitor Counter --><p align="center">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=rohanxlabs&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>---
-
-⭐ From "rohanxlabs" (https://github.com/rohanxlabs)
+</p>
 
 ![snake gif](https://github.com/rohanxlabs/rohanxlabs/blob/output/github-snake-dark.svg)
